@@ -11,7 +11,7 @@
             "jquery",
             "nodejs",
             "socketio",
-            "angularjs",
+            "angularjs"
         ]
     },
     "themes": [
